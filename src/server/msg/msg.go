@@ -1,7 +1,7 @@
 package msg
 
 import (
-	"github.com/name5566/leaf/network/json"
+	"github.com/kevincoding525/leaf/network/json"
 )
 
 // var Processor network.Processor

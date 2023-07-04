@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
-	"github.com/name5566/leaf/log"
+	"github.com/kevincoding525/leaf/gate"
+	"github.com/kevincoding525/leaf/log"
 	"reflect"
 	"server/msg"
 )
